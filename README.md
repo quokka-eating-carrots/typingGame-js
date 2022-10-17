@@ -1,6 +1,7 @@
 # typingGame-js
 
-[참고 강의](https://youtu.be/Yw-SYSG-028)
+[참고 강의](https://youtu.be/Yw-SYSG-028)<br>
+[완성 페이지](https://dashing-rugelach-d9e539.netlify.app/)
 
 ## 기본 html 구조
 [github](https://github.com/bradtraversy/wordbeater/blob/master/dist/index.html)에서 제공되는 html을 사용하였습니다.
